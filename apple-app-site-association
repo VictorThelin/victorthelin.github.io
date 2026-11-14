@@ -1,0 +1,27 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "4338ZLTTB5.se.tittarn.tv"
+        ],
+        "components": [
+          {
+            "/": "/homeplay/tv.html",
+            "?": {
+              "k": "?*"
+            },
+            "comment": "QR-koden på TV:ns inloggning öppnar Homeplay i mobilen"
+          },
+          {
+            "/": "/homeplay/tv",
+            "?": {
+              "k": "?*"
+            },
+            "comment": "samma adress utan .html"
+          }
+        ]
+      }
+    ]
+  }
+}
